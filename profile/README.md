@@ -7,6 +7,7 @@ A suite of tools for modding the *Trails* series and other Falcom games, made by
 - [**Factoria**](https://github.com/Aureole-Suite/Factoria) - Extracting and manipulating *Trails in the Sky*'s archive files.
 - [**Cradle**](https://github.com/Aureole-Suite/Cradle) - Processing the .itp and .itc files found in the Crossbell games and many other Falcom games. I'll get support for Sky's formats someday, I swear.
 - [**Calmare** and **Themelios**](https://github.com/Aureole-Suite/Calmare) - De- and recompiler for *Trails* script files. Currently supports Sky and Crossbell; *Cold Steel* is being worked on.
+- [**LB-ARK**](https://github.com/Aureole-Suite/LB-ARK) - Runtime hook for Sky to avoid having to fiddle around with archives.
 
 ## Other tools
 
